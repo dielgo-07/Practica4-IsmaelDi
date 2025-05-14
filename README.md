@@ -48,7 +48,7 @@
     <h1>Películas destacadas de A24</h1>
     <div class="peliculas">
         <div class="pelicula">
-            <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Hereditary.png" alt="Hereditary">
+        
             <div class="contenido">
                 <h2>Hereditary</h2>
                 <p><strong>Año:</strong> 2018</p>
@@ -56,7 +56,7 @@
             </div>
         </div>
         <div class="pelicula">
-            <img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Everything_Everywhere_All_at_Once.jpg" alt="Everything Everywhere All at Once">
+            
             <div class="contenido">
                 <h2>Everything Everywhere All at Once</h2>
                 <p><strong>Año:</strong> 2022</p>
@@ -64,7 +64,7 @@
             </div>
         </div>
         <div class="pelicula">
-            <img src="https://upload.wikimedia.org/wikipedia/en/e/e1/The_Witch_poster.png" alt="The Witch">
+    
             <div class="contenido">
                 <h2>The Witch</h2>
                 <p><strong>Año:</strong> 2015</p>
